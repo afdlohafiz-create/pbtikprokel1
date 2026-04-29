@@ -1,0 +1,8 @@
+streamlit
+requests
+py3Dmol
+stmol
+google-generativeai
+ipywidgets
+ipython-genutils
+rdkit
